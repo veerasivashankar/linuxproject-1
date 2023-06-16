@@ -1,0 +1,10 @@
+mkrid to creat the directrys
+cd to change the directrys 
+pwd to know the location of directrys
+ll to know the how many files are there
+touch to creat the new files
+cat> file to write the information
+cat>> file to rewrite the information 
+vim file to write information likeas notepad
+cat file to read the information in the file 
+
